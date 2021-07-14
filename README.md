@@ -32,3 +32,9 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+_EDAMAM API INFO_
+
+APP_ID = "dc9b9d67"
+API_KEY = "e6a2bcbc551fc261d9466d1cc79f925b"
+PATH = "https://api.edamam.com/search?app_id=dc9b9d67&app_key=e6a2bcbc551fc261d9466d1cc79f925b&q=pizza"
