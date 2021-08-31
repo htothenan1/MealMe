@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -38,3 +39,6 @@ _EDAMAM API INFO_
 APP_ID = "dc9b9d67"
 API_KEY = "e6a2bcbc551fc261d9466d1cc79f925b"
 PATH = "https://api.edamam.com/search?app_id=dc9b9d67&app_key=e6a2bcbc551fc261d9466d1cc79f925b&q=pizza"
+=======
+Meal Me!
+>>>>>>> cc48171b52fa7251b8a5876e8699073bf35378fb
