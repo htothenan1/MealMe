@@ -33,8 +33,3 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-_EDAMAM API INFO_
-
-APP_ID = "dc9b9d67"
-API_KEY = "e6a2bcbc551fc261d9466d1cc79f925b"
-PATH = "https://api.edamam.com/search?app_id=dc9b9d67&app_key=e6a2bcbc551fc261d9466d1cc79f925b&q=pizza"
