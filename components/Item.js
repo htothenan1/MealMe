@@ -1,12 +1,14 @@
-import React from "react"
-import FridgeForm from "./FridgeForm"
+/* eslint-disable no-unused-vars */
+
+import React from "react";
+import FridgeForm from "./FridgeForm";
 
 function Item({ items }) {
-	return items.map((item, index) => (
-		<div key={index} style={{ textAlign: "center" }}>
-			<div key={item.id}>{item}</div>
-		</div>
-	))
+  return items.map((item, index) => (
+    <div key={index} style={{ textAlign: "center" }}>
+      <div key={item.id}>{item}</div>
+    </div>
+  ));
 }
 
-export default Item
+export default Item;
